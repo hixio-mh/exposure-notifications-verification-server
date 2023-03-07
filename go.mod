@@ -35,7 +35,7 @@ require (
 	github.com/jinzhu/now v1.1.1 // indirect
 	github.com/lib/pq v1.8.0
 	github.com/mattn/go-sqlite3 v2.0.1+incompatible // indirect
-	github.com/microcosm-cc/bluemonday v1.0.4
+	github.com/microcosm-cc/bluemonday v1.0.20
 	github.com/mikehelmick/go-chaff v0.3.0
 	github.com/opencensus-integrations/redigo v2.0.1+incompatible
 	github.com/ory/dockertest v3.3.5+incompatible
@@ -52,9 +52,7 @@ require (
 	go.opencensus.io v0.22.4
 	go.uber.org/zap v1.16.0
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0 // indirect
-	golang.org/x/net v0.0.0-20201002202402-0a1ea396d57c // indirect
 	golang.org/x/sync v0.0.0-20200930132711-30421366ff76 // indirect
-	golang.org/x/sys v0.0.0-20201005172224-997123666555 // indirect
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
 	golang.org/x/tools v0.0.0-20201005185003-576e169c3de7
 	google.golang.org/api v0.32.0
