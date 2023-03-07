@@ -22,7 +22,7 @@ require (
 	github.com/gonum/internal v0.0.0-20181124074243-f884aa714029 // indirect
 	github.com/gonum/lapack v0.0.0-20181123203213-e4cdc5a0bff9 // indirect
 	github.com/gonum/matrix v0.0.0-20181209220409-c518dec07be9
-	github.com/google/exposure-notifications-server v0.11.1-0.20201005213218-7e6d29562b2a
+	github.com/google/exposure-notifications-server v0.18.3
 	github.com/google/go-cmp v0.5.2
 	github.com/gorilla/csrf v1.7.0
 	github.com/gorilla/handlers v1.5.1
@@ -36,7 +36,7 @@ require (
 	github.com/lib/pq v1.8.0
 	github.com/mattn/go-sqlite3 v2.0.1+incompatible // indirect
 	github.com/microcosm-cc/bluemonday v1.0.4
-	github.com/mikehelmick/go-chaff v0.3.0
+	github.com/mikehelmick/go-chaff v0.4.1
 	github.com/opencensus-integrations/redigo v2.0.1+incompatible
 	github.com/ory/dockertest v3.3.5+incompatible
 	github.com/rakutentech/jwk-go v1.0.1
@@ -60,5 +60,5 @@ require (
 	google.golang.org/api v0.32.0
 	google.golang.org/genproto v0.0.0-20201002142447-3860012362da
 	gopkg.in/gormigrate.v1 v1.6.0
-	honnef.co/go/tools v0.0.1-2020.1.5
+	honnef.co/go/tools v0.0.1-2020.1.6
 )
